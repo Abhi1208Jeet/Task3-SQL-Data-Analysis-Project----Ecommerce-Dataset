@@ -123,7 +123,4 @@ Perfect for resumes, portfolios, and data analysis coursework.
 
 ------------------------------------------------------------------------
 
-## ✔ Author
 
-Generated with assistance from ChatGPT --- SQL + Data Analysis
-automation.
